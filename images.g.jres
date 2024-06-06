@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD//w8A8AAADwAA8AAPAPAPD/Dw8AAADw8A8PD///8PDwDw8P///w8PD/Dw8AAADw8AAPAADwDw8P//DwDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coder"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAICIiIiIiIgJCREREREREJEJVVVVVVVUkQnV3d3d3VyRCdYiIiIhXJEJ1mJmZiVckQnWYmZmJVyRCdYiIiIhXJEJ1d3d3d1ckQlVVVVVVVSRCREREREREJCAiIiIiIiICAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Clone-ish"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
